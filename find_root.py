@@ -1,0 +1,1 @@
+print('a string from a non-root user'.index('root'))
